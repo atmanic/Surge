@@ -1,0 +1,10 @@
+# Apple
+DOMAIN-SUFFIX,appsto.re // Apple URL Shortener
+DOMAIN-SUFFIX,mzstatic.com
+DOMAIN,itunes.apple.com
+DOMAIN,lookup-api.apple.com
+DOMAIN,api-glb-sea.smoot.apple.com
+DOMAIN,books.itunes.apple.com // iBooks Download
+DOMAIN,hls.itunes.apple.com // iTunes Store Moveis Trailers
+DOMAIN,gspe1-ssl.ls.apple.com // Apple News and Apple Map TOMTOM Version
+USER-AGENT,AppleNews* // Apple News
