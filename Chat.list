@@ -1,0 +1,30 @@
+# Line
+DOMAIN-SUFFIX,line.me
+DOMAIN-SUFFIX,line-apps.com
+DOMAIN-SUFFIX,line-cdn.net
+DOMAIN-SUFFIX,line-scdn.net
+IP-CIDR,103.2.28.0/22
+IP-CIDR,119.235.224.0/20
+IP-CIDR,125.209.208.0/20
+IP-CIDR,147.92.128.0/17
+IP-CIDR,203.104.128.0/19
+
+# Slack
+DOMAIN-SUFFIX,slack.com
+DOMAIN-SUFFIX,slack-edge.com
+DOMAIN-SUFFIX,slacker.com
+DOMAIN-SUFFIX,slack-msgs.com
+
+# Snapchat
+DOMAIN-SUFFIX,snapchat.com
+
+# Kakao
+DOMAIN-SUFFIX,kakao.co.kr
+DOMAIN-SUFFIX,kakao.com
+DOMAIN-SUFFIX,kakaocdn.net
+
+# Viber
+DOMAIN-SUFFIX,viber.com
+
+# Tinychat
+DOMAIN-SUFFIX,tinychat.com

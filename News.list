@@ -1,0 +1,56 @@
+
+# A
+DOMAIN-SUFFIX,abc.com
+DOMAIN-SUFFIX,abc.net.au
+DOMAIN-SUFFIX,aol.com
+DOMAIN-SUFFIX,aolcdn.com
+# B
+DOMAIN-SUFFIX,bbc.com
+DOMAIN-SUFFIX,bbcchinese.com
+DOMAIN-SUFFIX,bloomberg.com
+DOMAIN-SUFFIX,businessweek.com
+# C
+DOMAIN-SUFFIX,cnn.com
+DOMAIN-SUFFIX,cnn.io
+# D
+DOMAIN-SUFFIX,dwnews.com
+DOMAIN-SUFFIX,dwnews.net
+# E
+DOMAIN-SUFFIX,espncdn.com
+# F
+DOMAIN-SUFFIX,ftchinese.com
+# G
+DOMAIN,abc.go.com
+# M
+DOMAIN-SUFFIX,medium.com
+DOMAIN-SUFFIX,mycnnews.com
+# N
+DOMAIN-SUFFIX,nyt.com
+DOMAIN-SUFFIX,nytco.com
+DOMAIN-SUFFIX,nytimes.com
+DOMAIN-SUFFIX,nytimg.com
+DOMAIN-SUFFIX,nytlog.com
+DOMAIN-SUFFIX,nytstyle.com
+# R
+DOMAIN-SUFFIX,redd.it
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,redditmedia.com
+DOMAIN-SUFFIX,redditstatic.com
+DOMAIN-SUFFIX,reuters.com
+# S
+DOMAIN-SUFFIX,sidelinesnews.com
+# T
+DOMAIN-SUFFIX,time.com
+DOMAIN-SUFFIX,timecommerce.net
+# V
+DOMAIN-SUFFIX,voachinese.com
+DOMAIN-SUFFIX,voanews.com
+DOMAIN-SUFFIX,voxer.com
+# W
+DOMAIN-SUFFIX,wire.com
+DOMAIN-SUFFIX,wp.com
+DOMAIN-SUFFIX,wsj.com
+DOMAIN-SUFFIX,wsj.net
+# Y
+DOMAIN-SUFFIX,yahoo.com
+# Z

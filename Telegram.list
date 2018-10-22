@@ -1,4 +1,10 @@
-# Telegram
+# DOMAIN
+DOMAIN-SUFFIX,telegram.me
+DOMAIN-SUFFIX,telegram.org
+DOMAIN-SUFFIX,telegram.show
+DOMAIN-SUFFIX,t.me
+
+# IP-CIDR
 IP-CIDR,109.239.140.0/24,💊Proxy,no-resolve
 IP-CIDR,149.154.160.0/22,💊Proxy,no-resolve
 IP-CIDR,149.154.164.0/22,💊Proxy,no-resolve

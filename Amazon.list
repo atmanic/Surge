@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,media-amazon.com
 DOMAIN-SUFFIX,ssl-images-amazon.com
+DOMAIN-SUFFIX,cloudfront.com
 
 IP-CIDR,3.120.0.0/14
 IP-CIDR,13.32.0.0/16

@@ -1,0 +1,14 @@
+# Dropbox
+DOMAIN-KEYWORD,dropbox
+DOMAIN-SUFFIX,dropbox.com
+DOMAIN-SUFFIX,dropboxstatic.com
+DOMAIN-SUFFIX,dropboxusercontent.com
+DOMAIN-SUFFIX,getdropbox.com
+
+# Other
+DOMAIN-SUFFIX,getsync.com
+DOMAIN-SUFFIX,resilio.com
+DOMAIN-SUFFIX,owncloud.org
+DOMAIN-SUFFIX,uploaded.net
+DOMAIN-SUFFIX,uploaded.to
+DOMAIN-SUFFIX,uploadstation.com
