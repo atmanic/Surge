@@ -4,6 +4,8 @@ DOMAIN-SUFFIX,dropbox.com
 DOMAIN-SUFFIX,dropboxstatic.com
 DOMAIN-SUFFIX,dropboxusercontent.com
 DOMAIN-SUFFIX,getdropbox.com
+PROCESS-NAME,Dropbox
+PROCESS-NAME,Dropbox*
 
 # Other
 DOMAIN-SUFFIX,getsync.com
@@ -12,3 +14,7 @@ DOMAIN-SUFFIX,owncloud.org
 DOMAIN-SUFFIX,uploaded.net
 DOMAIN-SUFFIX,uploaded.to
 DOMAIN-SUFFIX,uploadstation.com
+
+
+PROCESS-NAME,OneDrive
+PROCESS-NAME,Resilio Sync

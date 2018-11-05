@@ -1,4 +1,9 @@
 # China Apps
 USER-AGENT,MicroMessenger Client
 USER-AGENT,WeChat*
+USER-AGENT,QQ*
 USER-AGENT,MApi* // Dianping
+
+PROCESS-NAME,QQ
+PROCESS-NAME,QQ*
+PROCESS-NAME,Speedtest
