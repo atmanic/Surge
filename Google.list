@@ -89,8 +89,9 @@ DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,zynamics.com
 
 # - Youtube
+USER-AGENT,*YouTube*
+USER-AGENT,com.google.ios.youtube*
 USER-AGENT,*youtube*
-USER-AGENT,YouTube*
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,youtube.com
 DOMAIN,youtubei.googleapis.com
