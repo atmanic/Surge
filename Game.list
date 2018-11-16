@@ -1,10 +1,20 @@
-
-DOMAIN-SUFFIX,macgamestore.com
-
+# Nintendo
 DOMAIN-SUFFIX,nintendo.com
 DOMAIN-SUFFIX,nintendo.net
 DOMAIN-SUFFIX,pokemon.com
+
+# Steam
 DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN-SUFFIX,fanatical.com,BosLife
+DOMAIN-SUFFIX,humblebundle.com,BosLife
+DOMAIN-SUFFIX,steamcommunity.com,BosLife
+DOMAIN-SUFFIX,steampowered.com,BosLife
+DOMAIN-SUFFIX,steamstatic.com,BosLife
+
+# Twitch
 DOMAIN-SUFFIX,ext-twitch.tv
 DOMAIN-SUFFIX,twitch.tv
+
+# Other
+DOMAIN-SUFFIX,macgamestore.com
 DOMAIN-SUFFIX,wingamestore.com
