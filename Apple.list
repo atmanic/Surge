@@ -7,4 +7,4 @@ DOMAIN,api-glb-sea.smoot.apple.com
 DOMAIN,books.itunes.apple.com // iBooks Download
 DOMAIN,hls.itunes.apple.com // iTunes Store Moveis Trailers
 DOMAIN,gspe1-ssl.ls.apple.com // Apple News and Apple Map TOMTOM Version
-USER-AGENT,AppleNews* // Apple News
+// USER-AGENT,AppleNews* // Apple News
