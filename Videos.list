@@ -1,14 +1,4 @@
 # KeyWord
-# - Hulu
-USER-AGENT,Hulu*
-DOMAIN-SUFFIX,hulu.com
-DOMAIN-SUFFIX,huluim.com
-DOMAIN-SUFFIX,hulustream.com
-DOMAIN-KEYWORD,bbcfmt
-DOMAIN-KEYWORD,uk-live
-DOMAIN-SUFFIX,happyon.jp
-
-
 # - BBC iPlayer
 USER-AGENT,BBCiPlayer*
 DOMAIN-KEYWORD,bbcfmt
